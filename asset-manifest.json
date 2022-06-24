@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crypto-world/static/css/main.d9f583bd.css",
+    "main.js": "/crypto-world/static/js/main.51b9ba51.js",
+    "static/js/835.c9fcefd5.chunk.js": "/crypto-world/static/js/835.c9fcefd5.chunk.js",
+    "static/js/972.9dea82f8.chunk.js": "/crypto-world/static/js/972.9dea82f8.chunk.js",
+    "static/js/397.326814fd.chunk.js": "/crypto-world/static/js/397.326814fd.chunk.js",
+    "static/js/394.cebf55b0.chunk.js": "/crypto-world/static/js/394.cebf55b0.chunk.js",
+    "static/js/911.ff7fe5af.chunk.js": "/crypto-world/static/js/911.ff7fe5af.chunk.js",
+    "index.html": "/crypto-world/index.html",
+    "main.d9f583bd.css.map": "/crypto-world/static/css/main.d9f583bd.css.map",
+    "main.51b9ba51.js.map": "/crypto-world/static/js/main.51b9ba51.js.map",
+    "835.c9fcefd5.chunk.js.map": "/crypto-world/static/js/835.c9fcefd5.chunk.js.map",
+    "972.9dea82f8.chunk.js.map": "/crypto-world/static/js/972.9dea82f8.chunk.js.map",
+    "397.326814fd.chunk.js.map": "/crypto-world/static/js/397.326814fd.chunk.js.map",
+    "394.cebf55b0.chunk.js.map": "/crypto-world/static/js/394.cebf55b0.chunk.js.map",
+    "911.ff7fe5af.chunk.js.map": "/crypto-world/static/js/911.ff7fe5af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f583bd.css",
+    "static/js/main.51b9ba51.js"
+  ]
+}
